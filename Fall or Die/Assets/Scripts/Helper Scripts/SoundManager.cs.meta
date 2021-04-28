@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3260e4e8b41b3ed439c9563fe3304ace
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundFX: {instanceID: 0}
+  - landclip: {instanceID: 0}
+  - deathclip: {instanceID: 0}
+  - icebreakclip: {instanceID: 0}
+  - gameoverclip: {instanceID: 0}
+  - starsound: {fileID: 8300000, guid: 69ae5000011043e4a8c6db4c50b38059, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
